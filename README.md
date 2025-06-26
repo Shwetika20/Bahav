@@ -33,12 +33,13 @@ npm install
 
 ### 3. Configure environment variables
 
-### 4. Install dependencies
+### 4. Run the development server
 
 ```bash
 npm run dev
 ```
 Visit `http://localhost:3000` in your browser.
+
 ---
 
 ## 🧪 Tech Stack
