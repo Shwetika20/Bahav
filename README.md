@@ -55,6 +55,44 @@ Visit `http://localhost:3000` in your browser.
 
 ---
 
+## 🚀 How It Works
+
+---
+
+### 🧑‍🤝‍🧑 For Community Members
+
+1. **Sign Up / Login**
+   - Head to the platform and create an account.
+   - Email verification is required for signup via a secure code sent to your inbox.
+
+2. **Get Your Dashboard**
+   - Once signed in, you're redirected to your personal dashboard.
+   - Copy your **unique public profile link** to share with others.
+   - Toggle "Accept Messages" to enable or disable anonymous submissions.
+
+3. **Receive Anonymous Feedback**
+   - Messages sent via your link appear in real-time on your dashboard.
+   - You can **delete** any message you receive.
+   - All senders remain anonymous, encouraging open and honest communication.
+
+---
+
+### 🌍 For the Public
+
+1. **Visit the Public Profile Link**
+   - Anyone can access the unique link shared by a community member.
+
+2. **Send Anonymous Messages**
+   - No login or signup is required.
+   - Type your message or select one from **Gemini-powered smart suggestions**.
+
+3. **Help Drive Impact**
+   - Give suggestions, offer feedback, share ideas, or raise issues — all anonymously.
+   - Your voice helps improve JAL’s outreach and grassroots efforts.
+
+---
+
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
@@ -69,4 +107,4 @@ Thanks to:
 - 🌊 **JAL – Jagrukta Abhivridhi Leher** for inspiring social impact
 - 🫶 Everyone who believes feedback can build a better tomorrow
 
-> _Every ripple begins with a drop. 💧_
+> _Every ripple begins with a drop. Your feedback could be that drop. 💧_
