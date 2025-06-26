@@ -1,6 +1,6 @@
-# Secret Feedback – Voices for JAL 🌊
+# Bahav – Voices for JAL 🌊
 
-**Secret Feedback** is an anonymous messaging and feedback platform created to support **JAL - Jagrukta Abhivridhi Leher** — a grassroots initiative started by IIM Sirmaur students to bring **education, nourishment, awareness, and love** to children in need.
+**Bahav** is an anonymous messaging and feedback platform created to support **JAL - Jagrukta Abhivridhi Leher** — a grassroots initiative started by IIM Sirmaur students to bring **education, nourishment, awareness, and love** to children in need.
 
 This platform lets users send feedback, suggestions, constructive criticism, or encouragement anonymously — empowering everyone to contribute to the mission of JAL without hesitation.
 
